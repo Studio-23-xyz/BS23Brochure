@@ -1,0 +1,16 @@
+{
+"companyName": "Brain Station 23",
+"productName": "BS23 Brochure Web",
+"productVersion": "0.1",
+"dataUrl": "BS23Brochure.data.unityweb",
+"wasmCodeUrl": "BS23Brochure.wasm.code.unityweb",
+"wasmFrameworkUrl": "BS23Brochure.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
